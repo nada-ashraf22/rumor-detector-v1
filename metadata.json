@@ -1,0 +1,9 @@
+{
+  "name": "كاشف الإشاعات الذكي | RumorGuard AI",
+  "description": "نظام ذكي يعتمد على الذكاء الاصطناعي لاكتشاف الشائعات الكاذبة والتحقق من الحقائق.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI Fact Checking",
+    "Social Media Rumor Detection"
+  ]
+}
